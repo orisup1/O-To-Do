@@ -13,3 +13,6 @@ note that the app doesn't save tasks that were open on another session, only tho
 might add this feature in the future
 
 I do know the main file is very messy and unorganized, but it works, which is enough for now
+
+# Updated the UI
+Better UI
